@@ -12,8 +12,8 @@ Enjoy the joy brought to us by MineCraft.
 
 > 工作室招新：\
 > WE WANT YOU!\
-> 如果你也对这些东西感兴趣，并想成为我们的一员，请发送任意格式邮件至 [我们的邮箱](MournInkOfficial@outlook.com)，我们期待您的加入。\
-> If you are also interested in this, and want to be a member of us, please send a email to [our mailbox](MournInkOfficial@outlook.com), we have been looking forward to your joining.
+> 如果你也对这些东西感兴趣，并想成为我们的一员，请发送任意格式邮件至 [我们的邮箱](mailto:MournInkOfficial@outlook.com)，我们期待您的加入。\
+> If you are also interested in this, and want to be a member of us, please send a email to [our mailbox](mailto:MournInkOfficial@outlook.com), we have been looking forward to your joining.
 
 <!--
 
