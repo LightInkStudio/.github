@@ -9,7 +9,7 @@ Here, you can find various repos about MineCraft.\
 \
 尽情享受我的世界带给我们的欢乐吧！\
 Enjoy the joy brought to us by MineCraft.\
-\
+
 > 工作室招新：\
 > WE WANT YOU!\
 > 如果你也对这些东西感兴趣，并想成为我们的一员，请发送任意格式邮件至 [我们的邮箱](MournInkOfficial@outlook.com)，我们期待您的加入。\
