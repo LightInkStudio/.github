@@ -8,7 +8,7 @@ This is the Light Ink Studio, created by a group of developers who all love Mine
 Here, you can find various repos about MineCraft.\
 \
 尽情享受我的世界带给我们的欢乐吧！\
-Enjoy the joy brought to us by MineCraft.\
+Enjoy the joy brought to us by MineCraft.
 
 > 工作室招新：\
 > WE WANT YOU!\
